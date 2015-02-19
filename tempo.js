@@ -1,6 +1,5 @@
 var tempo = new Number();
 // Tempo em segundos
-
 tempo = 600;
 
 function startCountdown(){
